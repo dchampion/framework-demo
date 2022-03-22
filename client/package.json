@@ -21,7 +21,7 @@
     "@angular/router": "~8.2.14",
     "@babel/compat-data": "^7.8.0",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "rxjs": "~6.4.0",
     "rxjs-compat": "^6.5.4",
     "tslib": "^1.10.0",
